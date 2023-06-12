@@ -452,7 +452,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-ring-inset: ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
-  --tw-ring-color: #2f00ff;
+  --tw-ring-color: #0036df;
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
@@ -1154,12 +1154,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: #2f00ff;
+  background-color: #0036df;
 }
 
 .bg-\[\#f5f8ff\] {
   --tw-bg-opacity: 1;
-  background-color: #2f00ff;
+  background-color: #0036df;
 }
 
 .bg-black {
@@ -1174,12 +1174,12 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-\[\#13C296\] {
   --tw-bg-opacity: 1;
-  background-color: #eeff00;
+  background-color: #e3f501;
 }
 
 .bg-secondary {
   --tw-bg-opacity: 1;
-  background-color: #eeff00;
+  background-color: #e3f501;
 }
 
 .bg-\[\#f3f4ff\] {
@@ -1240,7 +1240,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .from-primary {
-  --tw-gradient-from: #2f00ff;
+  --tw-gradient-from: #0036df;
   --tw-gradient-stops: var(--tw-gradient-from),
     var(--tw-gradient-to, rgb(48 86 211 / 0));
 }
@@ -1250,7 +1250,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .to-\[\#179BEE\] {
-  --tw-gradient-to: #2f00ff;
+  --tw-gradient-to: #0036df;
 }
 
 .fill-current {
@@ -2495,7 +2495,7 @@ body {
 
   .lg\:text-white {
     --tw-text-opacity: 1;
-    color: #eeff00;
+    color: #e3f501;
   }
 
   .lg\:opacity-0 {
